@@ -1,0 +1,10 @@
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\bin\Debug\Forest Fires and Fake News.exe.config
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\bin\Debug\Forest Fires and Fake News.exe
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\bin\Debug\Forest Fires and Fake News.pdb
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest Fires and Fake News.csprojAssemblyReference.cache
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest_Fires_and_Fake_News.Form1.resources
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest_Fires_and_Fake_News.Properties.Resources.resources
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest Fires and Fake News.csproj.GenerateResource.cache
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest Fires and Fake News.csproj.CoreCompileInputs.cache
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest Fires and Fake News.exe
+F:\GIT\comp120-tinkering-graphics\Forest Fires and Fake News\Project Files\Forest Fires and Fake News\obj\Debug\Forest Fires and Fake News.pdb
